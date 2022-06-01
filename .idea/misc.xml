@@ -4,10 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/GNG/AndroidStudioProjects/Strangers2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/connecting_gradient.xml" value="0.2495" />
+        <entry key="app/src/main/res/layout/activity_call.xml" value="0.19630192502532928" />
+        <entry key="app/src/main/res/layout/activity_connecting.xml" value="0.19630192502532928" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.4653265832284543" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19630192502532928" />
+        <entry key="app/src/main/res/layout/activity_reward.xml" value="0.19630192502532928" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.19630192502532928" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
